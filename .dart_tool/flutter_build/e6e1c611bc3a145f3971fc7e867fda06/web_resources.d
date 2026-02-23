@@ -1,0 +1,1 @@
+ build/web/index.html build/web/manifest.json:  /workspaces/veneredconflutter-/web/index.html /workspaces/veneredconflutter-/web/manifest.json
