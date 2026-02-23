@@ -1,0 +1,6 @@
+# Ignorar archivos y carpetas pesadas y de build
+build/
+.dart_tool/
+flutter/
+*.tar.xz
+*.apk
